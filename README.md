@@ -1,1 +1,1 @@
-Move a div using arrow keys
+Move a div using arrow keys.
